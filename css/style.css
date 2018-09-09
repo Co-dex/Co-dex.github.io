@@ -241,7 +241,7 @@ pre {
   line-height: 0;
   height: 180px;
   width: 100%;
-  background: #fff url(https://github.com/Co-dex/Co-dex.github.io/raw/master/img/banner.jpg);
+  background: url(https://hcancer.cn/img/banner.jpg);
   background-repeat: repeat;
   overflow: hidden;
 }
